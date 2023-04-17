@@ -8,7 +8,7 @@ Once I know who they are sent from, I can make filters and manage my emails more
 
 If you have the same problem then this program can help you.
 
-# Result
+# Screenshot
 ![Screenshot of the application's results](./screenshot.png)
 
 # How to Use
